@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I'm Virendar Oza, a passionate Computer Science Engineer specializing in real-time video processing and automated editing applications. My expertise lies in Python, C++, SQL, Flask, and OpenCV, and I love building innovative solutions that optimize performance and enhance user experience.<br><br>🔹 Key Skills:<br><br>Backend Development: Python (Flask, Django), SQL, NoSQL<br>Computer Vision: OpenCV, YOLOv8, TensorFlow<br>Web Technologies: HTML, CSS, JavaScript, PHP<br>Data Science & AI: Machine Learning, NLP, Big Data (Hadoop, Spark)<br>Tools: Git, Docker, Jupyter Notebooks, Tableau<br><br>📜 Certifications:<br>✔️ Machine Learning (Simplilearn)<br><br>💡 I thrive in fast-paced environments and enjoy tackling complex challenges with creative problem-solving.
 
 
