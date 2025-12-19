@@ -1,24 +1,144 @@
+# 👋 Hi, I'm Virendar Oza
 
-I'm Virendar Oza, a passionate Computer Science Engineer specializing in real-time video processing and automated editing applications. My expertise lies in Python, C++, SQL, Flask, and OpenCV, and I love building innovative solutions that optimize performance and enhance user experience.<br><br>🔹 Key Skills:<br><br>Backend Development: Python (Flask, Django), SQL, NoSQL<br>Computer Vision: OpenCV, YOLOv8, TensorFlow<br>Web Technologies: HTML, CSS, JavaScript, PHP<br>Data Science & AI: Machine Learning, NLP, Big Data (Hadoop, Spark)<br>Tools: Git, Docker, Jupyter Notebooks, Tableau<br><br>📜 Certifications:<br>✔️ Machine Learning (Simplilearn)<br><br>💡 I thrive in fast-paced environments and enjoy tackling complex challenges with creative problem-solving.
+**AI Engineer | Production-Ready Generative AI Systems | Bengaluru**
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virendarozaa@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pepi-code-srt&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pepi-code-srt&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pepi-code-srt&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pepi-code-srt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build scalable, production-ready AI systems that handle real-world complexity—latency, concurrency, hallucinations, and all.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pepi-code-srt&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I Do
+
+**Real-Time Voice AI:** Built a full-duplex Speech-to-Speech agent that handles 1,000+ concurrent users with **<150ms latency**.
+
+**RAG at Scale:** Engineered retrieval systems for 50,000+ documents with **92% accuracy** using semantic chunking and hybrid search.
+
+**Backend Excellence:** Production architectures with **99.8% uptime**, proper observability, error handling, and deployment pipelines.
+
+---
+
+## 🛠️ Tech Stack
+
+**Generative AI:** LangChain, RAG, OpenAI/Gemini, Ollama, Prompt Engineering, Ragas (eval frameworks)
+
+**Backend & APIs:** FastAPI, WebSockets, Async Python, Flask, PostgreSQL, REST APIs
+
+**Data & ML:** ChromaDB, Pinecone, FAISS, Hybrid Search, Vector Databases
+
+**Infrastructure & DevOps:** Docker, AWS (EC2, S3), GitHub Actions, CI/CD, Linux, Deepgram API
+
+---
+
+## 📌 Featured Projects
+
+### 1. **Real-Time Speech-to-Speech Voice Agent**
+🔗 [`voice-agent-deepgram`](https://github.com/pepi-code-srt/voice-agent-deepgram)
+
+Full-duplex voice agent using binary WebSocket streams. Handles 1,000+ concurrent users with <150ms latency.
+
+**Stack:** FastAPI • WebSockets • Deepgram • PostgreSQL • Async Python
+
+**Highlights:**
+- 33% payload reduction via binary WebSockets
+- Custom Ragas evaluation gate filters hallucinations
+- Zero packet loss on 4G networks under load
+
+---
+
+### 2. **Advanced RAG Chatbot (Document Intelligence)**
+🔗 [`rag-chatbot-gemini`](https://github.com/pepi-code-srt/rag-chatbot-gemini)
+
+Retrieval system processing 50,000+ documents with 92% accuracy. Semantic chunking improved relevance by 24% over fixed-size chunking.
+
+**Stack:** LangChain • ChromaDB • Gemini API • Semantic Chunking
+
+**Highlights:**
+- Hybrid Search (BM25 + Cosine Similarity)
+- Ragas framework for faithfulness validation
+- 12 minutes query time (down from 2 hours manual)
+
+---
+
+### 3. **Automated Sales Proposal Engine**
+🔗 [`automated-sales-proposal`](https://github.com/pepi-code-srt/automated-sales-proposal)
+
+Generates complex PDF proposals (100+ sections) using structured prompt chaining. Built with robust template engine.
+
+**Stack:** Python • PDF Generation • LLM Prompt Chaining
+
+**Highlights:**
+- 95% time reduction (45 minutes → 90 seconds per proposal)
+- 500+ proposals generated with 100% data accuracy
+- Dynamic client data insertion
+
+---
+
+### 4. **Workflow Automation Platform**
+🔗 [`workflow-automation`](https://github.com/pepi-code-srt/workflow-automation)
+
+Automated 87% of manual workflows using n8n. Handles data sync, notifications, and complex integrations.
+
+**Highlights:**
+- 87% manual work reduction
+- No-code automation with custom extensions
+- Production-tested integrations
+
+---
+
+### 5. **Local LLM Docker App**
+🔗 [`local-llm-docker`](https://github.com/pepi-code-srt/local-llm-docker)
+
+Self-hosted Mistral LLM running locally with zero API costs. Docker-based deployment.
+
+**Highlights:**
+- Zero API costs
+- Self-hosted privacy
+- Easy Docker deployment
+
+---
+
+## 📊 Stats
+
+| Metric | Value |
+|--------|-------|
+| **Concurrent Requests Handled** | 1,000+ users |
+| **System Uptime** | 99.8% |
+| **RAG Accuracy** | 92% |
+| **Voice Agent Latency** | <150ms |
+| **Time Saved (Proposals)** | 95% (45m → 90s) |
+| **Documents Processed** | 50,000+ |
+
+---
+
+## 🎓 Experience
+
+**AI Engineer - Project Portfolio** (Jan 2024 – Present)
+- Architected 5+ production-grade AI systems
+- Deployed RAG pipelines, voice agents, and automation platforms
+- 99.8% uptime across all systems
+- 100% codebase documentation with architecture diagrams
+
+**Education:**
+- B.Tech Computer Science & Engineering (Presidency University, Bengaluru) - July 2024
+- Relevant Coursework: Distributed Systems, Database Management, Neural Networks, Deep Learning
+- Certifications: Machine Learning Specialist (Simplilearn), Deep Learning (ISRO), Azure AI Engineer (Pursuing)
+
+---
+
+## 🔗 Connect With Me
+
+- **Email:** virendarozaa@gmail.com
+- **Phone:** +91 7259741502
+- **LinkedIn:** [linkedin.com/in/virendar-oza](https://linkedin.com/in/virendar-oza)
+- **Resume:** [Download 1-Page Resume](link-to-your-pdf)
+
+---
+
+## 💡 Open to Opportunities
+
+I'm actively seeking **high-intensity engineering roles** in Bengaluru for AI/ML, Backend, or DevOps. If you're building production AI systems and need an engineer who ships on Day 1, **let's talk!**
+
+Feel free to explore my repositories, fork projects, or reach out directly.
+
+---
+
+**Last Updated:** December 2025
