@@ -1,144 +1,86 @@
-# 👋 Hi, I'm Virendar Oza
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Virendar%20Oza&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20High-Performance%20Generative%20AI%20Systems&descAlignY=51&descAlign=62" width="100%" />
+</div>
 
-**AI Engineer | Production-Ready Generative AI Systems | Bengaluru**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+Voice+Agents+with+%3C150ms+Latency;Architecting+RAG+Systems+with+92%25+Accuracy;Engineering+Production-Grade+FastAPI+Backends;10%2F10+High-Signal+Builder" alt="Typing SVG" />
+  </a>
+</div>
 
-I build scalable, production-ready AI systems that handle real-world complexity—latency, concurrency, hallucinations, and all.
+<div align="center">
+  <a href="https://linkedin.com/in/virendar-oza">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:virendarozaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
 
----
+<br />
 
-## 🎯 What I Do
+## ⚡ What I Bring to the Table
 
-**Real-Time Voice AI:** Built a full-duplex Speech-to-Speech agent that handles 1,000+ concurrent users with **<150ms latency**.
+> **"I don't just build demos; I architect production systems that handle scale, concurrency, and hallucinations."**
 
-**RAG at Scale:** Engineered retrieval systems for 50,000+ documents with **92% accuracy** using semantic chunking and hybrid search.
-
-**Backend Excellence:** Production architectures with **99.8% uptime**, proper observability, error handling, and deployment pipelines.
-
----
-
-## 🛠️ Tech Stack
-
-**Generative AI:** LangChain, RAG, OpenAI/Gemini, Ollama, Prompt Engineering, Ragas (eval frameworks)
-
-**Backend & APIs:** FastAPI, WebSockets, Async Python, Flask, PostgreSQL, REST APIs
-
-**Data & ML:** ChromaDB, Pinecone, FAISS, Hybrid Search, Vector Databases
-
-**Infrastructure & DevOps:** Docker, AWS (EC2, S3), GitHub Actions, CI/CD, Linux, Deepgram API
-
----
-
-## 📌 Featured Projects
-
-### 1. **Real-Time Speech-to-Speech Voice Agent**
-🔗 [`voice-agent-deepgram`](https://github.com/pepi-code-srt/voice-agent-deepgram)
-
-Full-duplex voice agent using binary WebSocket streams. Handles 1,000+ concurrent users with <150ms latency.
-
-**Stack:** FastAPI • WebSockets • Deepgram • PostgreSQL • Async Python
-
-**Highlights:**
-- 33% payload reduction via binary WebSockets
-- Custom Ragas evaluation gate filters hallucinations
-- Zero packet loss on 4G networks under load
+- 🎤 **Real-Time Voice AI:** Built full-duplex agents handling **1,000+ concurrent connections** with **<150ms latency**.
+- 🧠 **RAG at Scale:** Engineered retrieval for **50,000+ documents** achieving **92% accuracy** via semantic chunking.
+- ⚙️ **Backend Reliability:** Production uptime of **99.8%** using Docker, CI/CD, and robust error handling.
 
 ---
 
-### 2. **Advanced RAG Chatbot (Document Intelligence)**
-🔗 [`rag-chatbot-gemini`](https://github.com/pepi-code-srt/rag-chatbot-gemini)
+## 🛠️ Technical Arsenal
 
-Retrieval system processing 50,000+ documents with 92% accuracy. Semantic chunking improved relevance by 24% over fixed-size chunking.
+<div align="center">
 
-**Stack:** LangChain • ChromaDB • Gemini API • Semantic Chunking
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange?style=flat) |
+| **Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-Real_Time-red?style=flat) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Deepgram](https://img.shields.io/badge/Deepgram-API-purple?style=flat) |
+| **Vector DBs** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-green?style=flat) ![Pinecone](https://img.shields.io/badge/Pinecone-Search-black?style=flat) ![FAISS](https://img.shields.io/badge/FAISS-Meta_AI-blue?style=flat) |
 
-**Highlights:**
-- Hybrid Search (BM25 + Cosine Similarity)
-- Ragas framework for faithfulness validation
-- 12 minutes query time (down from 2 hours manual)
-
----
-
-### 3. **Automated Sales Proposal Engine**
-🔗 [`automated-sales-proposal`](https://github.com/pepi-code-srt/automated-sales-proposal)
-
-Generates complex PDF proposals (100+ sections) using structured prompt chaining. Built with robust template engine.
-
-**Stack:** Python • PDF Generation • LLM Prompt Chaining
-
-**Highlights:**
-- 95% time reduction (45 minutes → 90 seconds per proposal)
-- 500+ proposals generated with 100% data accuracy
-- Dynamic client data insertion
+</div>
 
 ---
 
-### 4. **Workflow Automation Platform**
-🔗 [`workflow-automation`](https://github.com/pepi-code-srt/workflow-automation)
+## 📌 High-Signal Projects
 
-Automated 87% of manual workflows using n8n. Handles data sync, notifications, and complex integrations.
+### 1. 🗣️ [Real-Time Speech-to-Speech Voice Agent](https://github.com/pepi-code-srt/voice-agent-deepgram)
+*Full-duplex voice AI with sub-second latency.*
+- **Tech:** FastAPI, Deepgram, WebSockets, Ragas.
+- **Impact:** Handles **1,000+ concurrents**, **<150ms latency**, custom hallucination filter.
+- **Signal:** 🟢 Production Ready
 
-**Highlights:**
-- 87% manual work reduction
-- No-code automation with custom extensions
-- Production-tested integrations
+### 2. 🤖 [Advanced RAG Chatbot (Document Intelligence)](https://github.com/pepi-code-srt/rag-chatbot-gemini)
+*Enterprise-grade retrieval system for massive datasets.*
+- **Tech:** LangChain, Gemini, Semantic Chunking, ChromaDB.
+- **Impact:** **92% retrieval accuracy**, processed **50k+ docs**, reduced query time by **90%**.
+- **Signal:** 🟢 High Scalability
 
----
+### 3. 📄 [Automated Sales Proposal Engine](https://github.com/pepi-code-srt/automated-sales-proposal)
+*Complex PDF generation pipeline using LLMs.*
+- **Tech:** Python, Prompt Chaining, Jinja2.
+- **Impact:** cut manual work by **95%** (45 min → 90 sec), 100% data accuracy.
+- **Signal:** 🟢 Business Automation
 
-### 5. **Local LLM Docker App**
-🔗 [`local-llm-docker`](https://github.com/pepi-code-srt/local-llm-docker)
-
-Self-hosted Mistral LLM running locally with zero API costs. Docker-based deployment.
-
-**Highlights:**
-- Zero API costs
-- Self-hosted privacy
-- Easy Docker deployment
-
----
-
-## 📊 Stats
-
-| Metric | Value |
-|--------|-------|
-| **Concurrent Requests Handled** | 1,000+ users |
-| **System Uptime** | 99.8% |
-| **RAG Accuracy** | 92% |
-| **Voice Agent Latency** | <150ms |
-| **Time Saved (Proposals)** | 95% (45m → 90s) |
-| **Documents Processed** | 50,000+ |
+### 4. ⚡ [Workflow Automation Platform](https://github.com/pepi-code-srt/workflow-automation)
+*No-code automation infrastructure.*
+- **Tech:** n8n, Webhooks, API Integrations.
+- **Impact:** Automated **87% of manual goals**, seamless data sync.
+- **Signal:** 🟢 DevOps
 
 ---
 
-## 🎓 Experience
+## 📈 GitHub Stats
 
-**AI Engineer - Project Portfolio** (Jan 2024 – Present)
-- Architected 5+ production-grade AI systems
-- Deployed RAG pipelines, voice agents, and automation platforms
-- 99.8% uptime across all systems
-- 100% codebase documentation with architecture diagrams
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pepi-code-srt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepi-code-srt&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</div>
 
-**Education:**
-- B.Tech Computer Science & Engineering (Presidency University, Bengaluru) - July 2024
-- Relevant Coursework: Distributed Systems, Database Management, Neural Networks, Deep Learning
-- Certifications: Machine Learning Specialist (Simplilearn), Deep Learning (ISRO), Azure AI Engineer (Pursuing)
+<br />
 
----
-
-## 🔗 Connect With Me
-
-- **Email:** virendarozaa@gmail.com
-- **Phone:** +91 7259741502
-- **LinkedIn:** [linkedin.com/in/virendar-oza](https://linkedin.com/in/virendar-oza)
-- **Resume:** [Download 1-Page Resume](link-to-your-pdf)
-
----
-
-## 💡 Open to Opportunities
-
-I'm actively seeking **high-intensity engineering roles** in Bengaluru for AI/ML, Backend, or DevOps. If you're building production AI systems and need an engineer who ships on Day 1, **let's talk!**
-
-Feel free to explore my repositories, fork projects, or reach out directly.
-
----
-
-**Last Updated:** December 2025
+<div align="center">
+  <i>"Talk is cheap. Show me the code."</i>
+</div>
