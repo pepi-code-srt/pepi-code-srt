@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Virendar%20Oza&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20High-Performance%20Generative%20AI%20Systems&descAlignY=51&descAlign=62" width="100%" />
 </div>
-
+ 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+Voice+Agents+with+%3C150ms+Latency;Architecting+RAG+Systems+with+92%25+Accuracy;Engineering+Production-Grade+FastAPI+Backends;10%2F10+High-Signal+Builder" alt="Typing SVG" />
