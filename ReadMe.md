@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=280&section=header&text=Virendar%20Oza&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20LangGraph%20%7C%20RAG&descAlignY=52&descAlign=50" width="100%" />
 </div>
@@ -214,6 +213,3 @@ I focus on building systems that are:
   •   <a href="mailto:virendarozaa@gmail.com">Email</a>
 
 </div>
-```
-
-And now your **GitHub profile, RepoIntel README, and resume can all tell the same story** instead of each making different claims.
