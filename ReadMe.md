@@ -1,86 +1,219 @@
+````markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300&section=header&text=Virendar%20Oza&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20High-Performance%20Generative%20AI%20Systems&descAlignY=51&descAlign=62" width="100%" />
-</div>
- 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+Voice+Agents+with+%3C150ms+Latency;Architecting+RAG+Systems+with+92%25+Accuracy;Engineering+Production-Grade+FastAPI+Backends;10%2F10+High-Signal+Builder" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=280&section=header&text=Virendar%20Oza&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20LangGraph%20%7C%20RAG&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/virendar-oza">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:virendarozaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+
+### AI & Backend Engineer
+
+Building Python backend systems, real-time applications, and Generative AI systems.
+
+<a href="https://www.linkedin.com/in/virendar-oza/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:virendarozaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
+
 </div>
-
-<br />
-
-## ⚡ What I Bring to the Table
-
-> **"I don't just build demos; I architect production systems that handle scale, concurrency, and hallucinations."**
-
-- 🎤 **Real-Time Voice AI:** Built full-duplex agents handling **1,000+ concurrent connections** with **<150ms latency**.
-- 🧠 **RAG at Scale:** Engineered retrieval for **50,000+ documents** achieving **92% accuracy** via semantic chunking.
-- ⚙️ **Backend Reliability:** Production uptime of **99.8%** using Docker, CI/CD, and robust error handling.
 
 ---
 
-## 🛠️ Technical Arsenal
+## ⚡ What I Build
 
-<div align="center">
+I build AI and backend systems with a focus on:
 
-| **Category** | **Technologies** |
+- 🤖 **Generative AI** — RAG, semantic chunking, hybrid search, LangGraph, Gemini
+- ⚙️ **Backend Systems** — Python, FastAPI, Flask, REST APIs
+- 🔄 **Real-Time Applications** — WebSockets, asyncio, threading, Socket.IO
+- 🎤 **Voice AI** — Speech-to-speech applications using Deepgram
+- 🧠 **LLM Orchestration** — deterministic workflows, task-based model routing, fallbacks
+- 🐳 **Engineering & Deployment** — Docker, GitHub Actions, environment-based configuration
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Technologies |
 | :--- | :--- |
-| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-blue?style=flat) ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-orange?style=flat) |
-| **Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-Real_Time-red?style=flat) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Deepgram](https://img.shields.io/badge/Deepgram-API-purple?style=flat) |
-| **Vector DBs** | ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-green?style=flat) ![Pinecone](https://img.shields.io/badge/Pinecone-Search-black?style=flat) ![FAISS](https://img.shields.io/badge/FAISS-Meta_AI-blue?style=flat) |
+| **Languages** | Python, JavaScript, SQL |
+| **Backend** | FastAPI, Flask, REST APIs, WebSockets, Socket.IO, Uvicorn |
+| **Generative AI** | RAG, LangChain, LangGraph, Gemini API, Function Calling |
+| **Retrieval** | ChromaDB, Vector Search, Semantic Search, Hybrid Search |
+| **AI Evaluation** | Ragas |
+| **Voice AI** | Deepgram Agent API, Speech-to-Text, Text-to-Speech |
+| **Concurrency** | asyncio, Threading, Janus |
+| **Frontend** | React, Next.js, Tailwind CSS, Web Audio API |
+| **DevOps** | Docker, Docker Compose, GitHub Actions |
+| **Engineering** | Environment-based Configuration, Real-Time Application Development |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. 🧠 [RepoIntel](https://github.com/pepi-code-srt/repo-intel)
+
+**AI-powered repository intelligence for public GitHub repositories.**
+
+RepoIntel separates deterministic repository analysis from semantic AI analysis instead of sending an entire repository directly to an LLM.
+
+**Built with:**
+
+- Python
+- FastAPI
+- LangGraph
+- Gemini
+- WebSockets
+- Docker
+
+**Engineering highlights:**
+
+- Deterministic repository scanning
+- Evidence selection for high-value source files
+- Task-based Gemini model routing
+- Primary → fallback model cascade
+- Structural fallback when AI analysis is unavailable
+- Real-time pipeline progress through WebSockets
+- Deterministic LangGraph workflow without a supervisor loop
+
+**Verified self-analysis:**
+
+- 39 files scanned
+- 2,595 lines of code
+- 15 evidence files selected
+- 31,354 evidence characters
+- 2 successful AI calls
+
+---
+
+### 2. 🎤 [Real-Time Speech-to-Speech Voice Agent](https://github.com/pepi-code-srt/voice-agent-deepgram)
+
+A browser-based real-time voice agent connecting browser audio, backend processing, and Deepgram's Voice Agent API.
+
+**Built with:**
+
+- Python
+- Flask
+- Flask-SocketIO
+- WebSockets
+- asyncio
+- Threading
+- Janus
+- Deepgram Agent API
+- Web Audio API
+
+**Engineering highlights:**
+
+- Real-time PCM audio streaming
+- Speech-to-text, LLM processing, and text-to-speech
+- Function calling
+- Multi-session support
+- Thread-safe queues for asyncio bridging
+- Gapless 48 kHz PCM browser playback
+
+---
+
+### 3. 🔎 [RAG Chatbot with Semantic Chunking & Hybrid Search](https://github.com/pepi-code-srt/rag-chatbot-gemini)
+
+A Retrieval-Augmented Generation chatbot focused on improving document retrieval and evaluating retrieval quality.
+
+**Built with:**
+
+- Python
+- LangChain
+- Gemini
+- ChromaDB
+- Semantic Chunking
+- Hybrid Search
+- Ragas
+
+**Engineering highlights:**
+
+- Semantic document chunking
+- Hybrid retrieval
+- Vector search
+- Gemini-based response generation
+- Dedicated Ragas evaluation workflow
+- Retrieval quality evaluation instead of relying only on generated responses
+
+---
+
+### 4. 📄 [Automated Sales Proposal Engine](https://github.com/pepi-code-srt/Automated-Sales-Proposal-Engine)
+
+AI application that converts sales call recordings into structured business outputs.
+
+**Built with:**
+
+- Python
+- FastAPI
+- Next.js
+- React
+- Gemini
+- Deepgram
+- Docker
+- Tailwind CSS
+
+**Engineering highlights:**
+
+- Speech-to-text with speaker diarization
+- AI-generated executive summaries
+- Pain-point and action-item extraction
+- Draft proposal generation
+- Text-to-speech audio briefs
+- PDF, Markdown, and email exports
+- Docker-based backend deployment
+
+---
+
+## 🧩 Engineering Principles
+
+I generally prefer:
+
+```text
+Deterministic logic
+       ↓
+Reduce unnecessary AI work
+       ↓
+Selective evidence / context
+       ↓
+Use the appropriate model
+       ↓
+Graceful fallback
+       ↓
+Useful result even when dependencies fail
+````
+
+I focus on building systems that are:
+
+* Predictable
+* Debuggable
+* Cost-conscious
+* Resilient to external API failures
+* Explicit about their limitations
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pepi-code-srt&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepi-code-srt&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 
 </div>
 
 ---
 
-## 📌 High-Signal Projects
-
-### 1. 🗣️ [Real-Time Speech-to-Speech Voice Agent](https://github.com/pepi-code-srt/voice-agent-deepgram)
-*Full-duplex voice AI with sub-second latency.*
-- **Tech:** FastAPI, Deepgram, WebSockets, Ragas.
-- **Impact:** Handles **1,000+ concurrents**, **<150ms latency**, custom hallucination filter.
-- **Signal:** 🟢 Production Ready
-
-### 2. 🤖 [Advanced RAG Chatbot (Document Intelligence)](https://github.com/pepi-code-srt/rag-chatbot-gemini)
-*Enterprise-grade retrieval system for massive datasets.*
-- **Tech:** LangChain, Gemini, Semantic Chunking, ChromaDB.
-- **Impact:** **92% retrieval accuracy**, processed **50k+ docs**, reduced query time by **90%**.
-- **Signal:** 🟢 High Scalability
-
-### 3. 📄 [Automated Sales Proposal Engine](https://github.com/pepi-code-srt/automated-sales-proposal)
-*Complex PDF generation pipeline using LLMs.*
-- **Tech:** Python, Prompt Chaining, Jinja2.
-- **Impact:** cut manual work by **95%** (45 min → 90 sec), 100% data accuracy.
-- **Signal:** 🟢 Business Automation
-
-### 4. ⚡ [Workflow Automation Platform](https://github.com/pepi-code-srt/workflow-automation)
-*No-code automation infrastructure.*
-- **Tech:** n8n, Webhooks, API Integrations.
-- **Impact:** Automated **87% of manual goals**, seamless data sync.
-- **Signal:** 🟢 DevOps
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pepi-code-srt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepi-code-srt&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-</div>
 
-<br />
+### Let's build useful AI systems.
 
-<div align="center">
-  <i>"Talk is cheap. Show me the code."</i>
+<a href="https://www.linkedin.com/in/virendar-oza/">LinkedIn</a>
+  •   <a href="mailto:virendarozaa@gmail.com">Email</a>
+
 </div>
+```
+
+And now your **GitHub profile, RepoIntel README, and resume can all tell the same story** instead of each making different claims.
